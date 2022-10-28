@@ -1,0 +1,2 @@
+Little to nothing is known about the Smiling One,  some says his a patron of Fun and Arts, but when talking to it's followers it seems a little more like a economic designation than a religious one. Other says his a Shadowy Figure in a dark alley, which makes more sense.
+His priests are beggars and madman, doing miracles only high priest of Major Gods would capable of.

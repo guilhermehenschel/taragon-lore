@@ -1,0 +1,4 @@
+# Gnomos
+> *"Os relatos e publicações citando os gnomos antes das Era das Trevas apresentam um diferença essencial aos gnomos observados na cidade Tetraportal hoje, a afinidade que antes era relacionadas as artes inferiores e materiais, foram substituídas pela relação com os planos imateriais. Segundo Carlos Darvon, nas ilha a leste Akash existiam um comunidade vibrante e genial de gnomos onde a capital era totalmente controlada por maquinas e chão se movia para leva-lo aos lugares, como um se própria rua fosse um barco. Claro que a resiliência e bom humor de nosso pequenos amigos continua a mesma."* - Estudo das Espécies Humanoides, Con. Pedro Alvasque [ano 145 da Era dos Heróis]
+
+Gnomos podem ser encontrados em todas as regiões de Taragon, mas eles estão sempre mais proximos de regiões onde o [Plano da Fadas]() está mais próximo do plano material.

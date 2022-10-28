@@ -1,0 +1,1 @@
+Khaz has taken over the mantle of God of Magic and Time. His first Temple was erected in the Ruins a old dusty tavern located in the middle of the Desert.

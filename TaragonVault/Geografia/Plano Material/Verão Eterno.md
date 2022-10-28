@@ -1,0 +1,1 @@
+The Region Called Eternal Summer is a Tropical Region, in the old days it was composed of 5 Countries and a Diplomatic Council that  this is long gone.
