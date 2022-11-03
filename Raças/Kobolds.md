@@ -11,28 +11,31 @@ Kobolds tem a maturidade sexual aos 12 anos idade, apresentam pouco dimorfismo s
 As heranças do kobold representam não apenas suas habilidades como sua posição na sociedade. Essa herança está relacionado a posição e temperatura do ovo.
 
 ### Kobold Escalador
-Esse kobolds em geral são comuns em montanhas e as cores em geral são de vermelhas a bronze, mas já foram avistados de outras cores. Normalmente quando presentes são os mais comuns na tribo.
+Esse kobolds em geral são comuns em montanhas e as cores em geral são de vermelhas a bronze, mas já foram avistados de outras cores. Normalmente quando presentes são os mais comuns na tribo.  
 `Pathfinder 2e: Caveclimber Kobold`
 
 ### Kobold de Ossos Flexíveis
-Esse kobolds são comuns em tribos que vivem no subterrâneo. Seus ossos e juntas são extremamente flexíveis, se tornando extremamente e parecem sumir entre frestas e aberturas.
+Esse kobolds são comuns em tribos que vivem no subterrâneo. Seus ossos e juntas são extremamente flexíveis, se tornando extremamente e parecem sumir entre frestas e aberturas.  
 `Pathfinder 2e: Cavern Kobold`
 
 ### Kobold Escamas Dracônicas
-Esse raros kobolds normalmente nascem em mais de um por ninho. Kobolds de Escamas Dracônicas tem seus ovos expostos a temperaturas ou condições extremas, normalmente relativas à tribo e seus ambientes.
+Esse raros kobolds normalmente nascem em mais de um por ninho. Kobolds de Escamas Dracônicas tem seus ovos expostos a temperaturas ou condições extremas, normalmente relativas à tribo e seus ambientes.  
 `Pathfinder 2e: Dragonscaled Kobold`
 
 ### Kobold Escamas Arcanas
-Esse kobolds são ainda mais raros que os Escamas Dracônicas, e existem 1 para cada 30 ou 50 kobolds. As condições para a eclosão de ovo que gerou um Kobold Escamas Arcanas são desconhecidas.
+Esse kobolds são ainda mais raros que os Escamas Dracônicas, e existem 1 para cada 30 ou 50 kobolds. As condições para a eclosão de ovo que gerou um Kobold Escamas Arcanas são desconhecidas.  
 `Pathfinder 2e: Spellscale Kobold`
 
 ### Kobold de Mandíbulas Fortes
+Esse kobolds são comuns em areas ricas em proteína animal, normalmente os ovos que geram esse tipo de kobold é gerado em ninho feitos dentro de carcaça de animais.  
 `Pathfinder 2e: Strongjaw Kobold`
 
 ### Kobold de Membranas Natatórias
+Esses kobolds são muito comuns em areas pantanosas, marítimas ou fluviais. Os ninhos que geram esse tipo de kobold são submersos ou parcialmente imundados.  
 `Pathfinder 2e: Tunnelflood Kobold`
 
 ### Kobold de Calda Venenosas
+Esse estranhos kobolds são raros, tendo glândulas venenosas na calda. Não se isso é uma mutação ou se o ambiente dos ovos tenham alguma relação.  
 `Pathfinder 2e: Venomtail Kobold`
 
 ## Religião
