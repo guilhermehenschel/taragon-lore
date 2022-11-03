@@ -39,6 +39,8 @@ Esse estranhos kobolds são raros, tendo glândulas venenosas na calda. Não se 
 `Pathfinder 2e: Venomtail Kobold`
 
 ## Religião
+Os kobolds adoram e devotam suas vidas a dragões, mais precisamente o dragão mítico que gerou a tribo. Algumas tribos ou kobolds assumem outros deuses ou heróis que ajudam ou salvam suas vidas, normalmente acreditando que esse era um dragão disfarçado ou a reencarnação de um dragão. Alguns deuses se aproveitam dessas crenças para criarem pequenos cultos em seus nomes.  
+Kobolds cultuam seus "deuses" com oferendas, em geral comida ou pequenos objetos de artesanatos. Em geral, o kobolds veem essa transação com um troca pela proteção e conhecimento ancestral. O mesmo é valido quando o culto é para um membro vivo da sociedade, trabalhando em troca de proteção e um lugar para morar.  
 
 ## Relações com outras raças
 
