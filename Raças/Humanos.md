@@ -5,7 +5,11 @@
 ## Etnias
 `Pathfinder 2e: Etnias são diferente de Heritage. Ser de uma etnia dá acesso a certos backgrounds e Talentos de Ancestralidade especifico. Apenas em alguns casos etnia também libera algumas Heritage.`
 ### Akashianos, Humanos de Akash
+Akashianos são os humanos da etnia dominante do Reino de [Akash](../Geografia/Plano%20Material/Akash.md), apesar de existirem etnias de menor representação e tensões entre os nobres para um observador externo todos eles apesentam as mesma características físicas. Essas características são olhos estreitos, narizes pequenos e finos, cabelos escuros e lisos.2
+
 ### Tetraanos, Humanos de Tetraportal
+Nem todo tetraano nasce em Tetraportal, nem todo humano em [Tetraportal](../Geografia/Plano%20Material/Tetraportal.md) é um tetraano. Assim como nem todo Tetraano é um cidadão de Tetraportal. Esse humanos tem um conexão forte com magica e isso pode ser visto em algumas características físicas, um tetraano pode possuir uma ou mais dessas características cabelos ruivos ou literalmente vermelho, olhos verdes, ou peles claras com sardas mesmo que castigadas pelo sol das cidades portuárias.
+
 ### Velshianos, Humanos do Inverno Eterno
 ### Herdeiros de Senec, Humanos do Deserto
 ### Karanos, Humanos da Terra do Acordo
