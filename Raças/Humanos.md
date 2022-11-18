@@ -16,5 +16,5 @@ A história conta que esse humanos de pele clara vieram da neve encantada pelo s
 ### Herdeiros de Senec, Humanos do Deserto
 Os herdeiros Senec são descendentes do antigos cidadães do antigo porto de [Senec](), perdido agora no tempo. Em geral sua cultura é nômade sempre andando pelas efêmeras colinas do deserto, entre [Refugio de Kaz](), [Nova Senec]() e [Colina do Corvo](../Geografia/Plano%20Material/Terras%20Elficas.md#Colina-do-Corvo). Sua pele é parda, olhos escuros e estatura em geral menor quer as outras etnias.
 
-### Karanos, Humanos da Terra do Acordo
-Karan foi o primeiro grande líder humano, fazendo um acordo com as raças imortais para que eles pudessem viver livres da amarras e intrigas. Karan morreu e seus filhos se espalham pela terra que ele queria chamar de sua, sempre perseguidos, sempre subjugados pela vontade deuses. Qualquer um pode ser um Karano, seu sangue se misturou tanto com as outras etnias que a única característica notável é o cabelo crespo.
+### Sharanos, Humanos da Terra do Acordo
+Sharan foi o primeiro grande líder humano, fazendo um acordo com as raças imortais para que eles pudessem viver livres da amarras e intrigas. Sharan morreu e seus filhos se espalham pela terra que ele queria chamar de sua, sempre perseguidos, sempre subjugados pela vontade deuses. Qualquer um pode ser um Sharano, seu sangue se misturou tanto com as outras etnias que a única característica notável é o cabelo crespo.
