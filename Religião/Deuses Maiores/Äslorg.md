@@ -24,7 +24,7 @@ Drows leais e alguns anões seguem a religião de Äslorg abertamente, ladrões 
 
 **Sombras Aterrorizantes**--**Focus 1**  
 **tags:** "Darkness", "Evocation", "Mental"  
-**Cast:** ► verbal  
+**Cast:** ►► verbal  
 **Range:** 60 feet; **Targets:** 1 light source
 
 Você evoca sombras do plano das sombras consumindo uma fonte de luz. Tente uma -counteract- check contra o efeito de luz, luz natural é consumida imediatamente sem necessidade de teste. Criaturas iluminadas pela luz devem tentar um -basic Will save- contra seu spell DC.
