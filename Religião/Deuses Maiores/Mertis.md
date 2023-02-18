@@ -25,12 +25,12 @@ Sacerdotes de Mertis não adoram a morte, mas sim a veem como uma conclusão da 
 **Range:** 30 feet; **Targets:** 1 creature
 **Saving Throw:** Will; **Duration:** Sustain up to 1 minute
 
-Você marca um inimigo com o chamado do corvo, que fica insistentemente ressoando ao redor do mesmo. Sempre que fizer o sustain o alvo deve realizar um teste Will ou sofre os efeitos abaixo. Se o alvo estiver com menos da metade dos pontos vida ele recebe uma penalidade circunstancial de -2 no teste de resistência.
+Você marca um inimigo com o chamado do corvo, que fica insistentemente ressoando ao redor do mesmo. Sempre que fizer o sustain o alvo deve realizar um teste Will ou sofre os efeitos abaixo. Se o alvo estiver com menos da metade dos pontos vida, ou for um undead, ele recebe uma penalidade circunstancial de -2 no teste de resistência. Mindless Undeads são afetados por essa magia mesmo sendo imunes a efeitos mentais, outras criaturas mindless não são afetadas.
 
 **Critical Success** Creature fica imune ao chamado do Corvo por 24h horas.  
 **Success** Creature becomes Frighten 1.  
-**Failure** Creature becomes Frighten 1, e não reduz a condição no final do turno.  
-**Critical Failure** Creature becomes Frighten 2, e não reduz a condição no final do turno.  
+**Failure** Creature becomes Frighten 1, e não reduz a condição no final do seu proximo turno.  
+**Critical Failure** Creature becomes Frighten 2, e não reduz a condição no final do seu proximo turno.  
 
 *-*
 
