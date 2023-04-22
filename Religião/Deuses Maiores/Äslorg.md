@@ -8,7 +8,7 @@ Drows leais e alguns anões seguem a religião de Äslorg abertamente, ladrões 
 
 Äslorg é conhecido por unir força com outros deuses quando isso o favorece ou para cumprir seus objetivos. Ele já uniu forças com [[Mertis]] para destruir [[Efenerus]], quanto o último tentou invadir o [[Mundo das Sombras]].
 
-**Tendencias**: LE, LN, NE
+**Tendencias**: **LE**, LN, NE
 
 **Habilidade Divina**: Intelligence or Charisma  
 **Fonte Divina**: Harm  
