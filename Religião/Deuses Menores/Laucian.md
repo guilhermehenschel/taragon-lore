@@ -1,5 +1,3 @@
-Books tell that Laucian was supposed to be the Promised Prince of The Elves, bringer of a new Golden Age. What's know is that he was a Master of Arcane and Mundane arts, excellent swordsman and master over music. Laucian married to [[Halani]], when she was a commoner and after his son was born forsaken them both to elven court at the Silver Castle. During the Dark Ages Laucian have made fame and fortune, allying himself to everyone adventure who could survive even the weaker enemies. Supposedly, he wrote his on epic, where he tells stories of his conquers and it owns superlative glory, most of them are tavern stories.
-
 # Laucian
 
 > Se orquestram os papeis da sociedade como folhas ao vento em um pôr do sol de outono, as regras como a neve na primavera e o ouro como ondas no mar de verão. Mas a vida, a vida é como o fogo em uma noite de inverno.
@@ -24,23 +22,3 @@ O Herdeiro do Sol foi escrito por [Leon von Strauss](../Imortais/Leon.md), apesa
 **Dominios Alternativos**: City
 
 **Alcunhas**: O Grande Bardo, O Traidor, O Principe Prometido, Aquele que nunca Foi, O Filho da Puta, O Maestro da Mentira.
-
----
-## Paragon Spell
-
-**Adagio Triste**--**Focus 1**  
-**tags:** "Evocation", "Mental", "Incapacitation"  
-**Cast:** ►►► verbal, somatic, material  
-**Range:** Emanation 30 feet;  **Duration:** sustain up for 1 minute  
-**Target:** Any creature in the area;  **Saving Throw:** Will
-
-Uma musica triste e lenta começa a tocar a area ao redor do conjurador. Criaturas que começarem seu turno na area devem realizar o teste.
-
-**Critical Success** Creature become immune to the Spell for 28 days.  
-**Success** Nothing happens.  
-**Failure** Creature becomes Slowed 1 for 1 round.  
-**Critical Failure** Creature becomes Slowed 2 for 1 round.  
-
-*-*
-**Heighten(5th):** Criaturas que iniciam ou terminam seu turno na area.  
-**Heighten(9th):** Aliados não são afetados.  
