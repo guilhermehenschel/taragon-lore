@@ -27,8 +27,8 @@ Raramente um elfo nasce com uma inata agilidade de sentir efeitos mágicos. Esse
 Lendas contam que elfos conseguiam ouvir o cantar dos pássaros de sua terra natal mesmo quando do outro lado continente. Esse elfos herdaram um pouco dessa habilidade e seus sentidos auditivos são aguaçados e fazendo com que eles se comuniquem apenas sussurros e cliques. Ele se denominam Elfos do Crepúsculo.  
 `Pathfinder 2e: Whisper Elf`
 
-### Drows
-As histórias contam que as tribos dos Elfos da Noite conviviam em paz com as criaturas da superfície, para passaram a adorar a Äslorg ao invés da Lua, e aos poucos se deslocaram mais profundamente nas cavernas de Taragon. Até o momento que abandonaram a Lingua Élfica e começaram a utilizar sua própria lingua onde se chamaram de Drow. Durante a Guerra dos Deuses os Drow se rebelaram contra Äslorg e passaram a atacar e destruir desordeiramente a superfície. Ao fim da guerra Aslorg recriou a sociedade Drow através de seus servos mais fieis, que caçam os rebeldes que ainda vivem.  
+### Dräsl
+As histórias contam que as tribos dos Elfos da Noite conviviam em paz com as criaturas da superfície, para passaram a adorar a Äslorg ao invés da Lua, e aos poucos se deslocaram mais profundamente nas cavernas de Taragon. Até o momento que abandonaram a Lingua Élfica e começaram a utilizar sua própria lingua onde se chamaram de Dräsl. Durante a Guerra dos Deuses os Dräsl se rebelaram contra Äslorg e passaram a atacar e destruir desordeiramente a superfície. Ao fim da guerra Aslorg recriou a sociedade Dräsl através de seus servos mais fieis, que caçam os rebeldes que ainda vivem.  
 `Pathfinder 2e: Cavern Elf`
 
 ## Cultura Ancestral
