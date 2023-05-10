@@ -32,6 +32,6 @@ Porto Argento é o primeiro porto do que oficialmente é a Costa da Tormenta. O 
 - **Ameaças** Kobolds tribais, Bandidos e contrabandistas
 - **Vistas Grossas** Apesar da cidade apresentar um pequena guarda e contingência minima para se defender, os guardas em geral são mau pagos. Qualquer tentativa de subornar os guardas é bem sucedida, mas ofensas repedidas podem se tornar um problema paras os personagem, que podem atrair atenção para seus bolsos pesados, causando a guarda a criar falsas apreensões para extorquir dinheiro dos aventureiros ricos.
 ---
-**Lowen Meriri** (CG meio-elfo charlatão) se passa por Lorde apontado por Laurin para governar a cidade, ele tem feito um bom trabalho em distribuir os impostos para Laurin, mantendo-o no poder e dando legitimidade a sua farsa.
-**Denis Galo** (CN humano capitão da guarda) é o capitão da guarda e principal responsável pelo péssimo pagamento dos guardas, ele deve dinheiro e favores ao [Sindicato das Sombras](../../Religi%C3%A3o/Organiza%C3%A7%C3%B5es%20Religiosas/SindicatoDasSombras.md)
+**Lowen Meriri** (CG meio-elfo charlatão) se passa por Lorde apontado por Laurin para governar a cidade, ele tem feito um bom trabalho em distribuir os impostos para Laurin, mantendo-o no poder e dando legitimidade a sua farsa.  
+**Denis Galo** (CN humano capitão da guarda) é o capitão da guarda e principal responsável pelo péssimo pagamento dos guardas, ele deve dinheiro e favores ao [Sindicato das Sombras](../../Religi%C3%A3o/Organiza%C3%A7%C3%B5es%20Religiosas/SindicatoDasSombras.md)  
 **Monel Æsill** (LE elfa ladina) é a líder do [Sindicato das Sombras]() e Guilda dos ladrões na cidade, meia irmã do Líder da Guilda dos Magos de Laurin, ela mantém seu irmão abastecido de dinheiro e reagentes mágicos.
