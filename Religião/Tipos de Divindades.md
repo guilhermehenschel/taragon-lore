@@ -12,7 +12,7 @@ Deuses maiores são considerados os que possuem poder o suficiente sobre o mundo
 
 ## Deuses Menores
 
-Deuses menores possuem equilibrio tenue entre dividades e heróis. Esses antigos heróis estão livres do perigo da aventura, mas agora estão fadados as intrigas divinas.  
+Deuses menores possuem equilíbrio tênue entre dividades e heróis. Esses antigos heróis estão livres do perigo da aventura, mas agora estão fadados as intrigas divinas.  
 
 - [[Baün Ghör]]
 - [[Halani]]

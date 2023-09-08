@@ -12,6 +12,9 @@ Crônicas dos Ventos é uma serie de contos e historias de Laucian durante a Era
 
 O Herdeiro do Sol foi escrito por [Leon von Strauss](../Imortais/Leon.md), apesar de alguns não aceitarem as palavras do Imortal como verdadeiras, ela conta os eventos da Traição de Laurin.  
 
+**Editos**: Espalhar a arte, ajudar aventureiros em necessidades, mudar o rumo do destino, resolver um problema usando apenas palavras
+**Anátemas**: Manter um sistema hierárquico, criar regras e leis, manter sua palavra seu detrimento
+
 **Tendencias**: **CN**, CG, N
 
 **Habilidade Divina**: Dexterity or Charisma  
@@ -19,6 +22,8 @@ O Herdeiro do Sol foi escrito por [Leon von Strauss](../Imortais/Leon.md), apesa
 **Pericia Divina**: Performance  
 **Arma Favorita**: Rapier  
 **Dominios**: Mudança, Liberdade, Paixão, Enganação (Change, Freedom, Passion, Trickery)  
-**Dominios Alternativos**: City
+**Dominios Alternativos**: City, Luck
+
+**Cleric Spells**: *1st* Bitting Words *3st* Hypnotic Pattern *7th* Curse of the Spirit Orchestra
 
 **Alcunhas**: O Grande Bardo, O Traidor, O Principe Prometido, Aquele que nunca Foi, O Filho da Puta, O Maestro da Mentira.
