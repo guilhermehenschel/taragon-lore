@@ -1,0 +1,15 @@
+\documentclass[]{article}
+\usepackage{chronosys}
+\begin{document}
+\setupchronoevent[event]{markdepth=1cm}
+\startchronology[startyear=-3000, stopyear=100]
+\chronoevent{-3000}{Morte da Deusa Mãe}
+\chronoperiode[textstyle=\it]{-3000}{-2000}{2a guerra dos Dragões}
+\chronoevent[markdepth=1.5cm]{-2000}{Ascensão de Sohvar}
+\chronoevent{-1000}{Ascensão de Khaelina}
+\chronoevent[markdepth=1.5cm]{-50}{Invasão de Taragon}
+\chronoperiode[textstyle=\it, textdeph=1cm]{-2000}{-1000}{Era das Guerras Mortais}
+\chronoperiode[textstyle=\it, textdeph=-1cm]{-1000}{-50}{Era da Paz}
+\chronoperiode[textstyle=\it, textdeph=-1cm]{-50}{50}{Era Das Trevas}
+\stopchronology
+\end{document}
