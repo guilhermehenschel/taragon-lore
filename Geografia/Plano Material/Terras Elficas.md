@@ -76,6 +76,8 @@ A linguagem élfica possuí uma articulação substantivos.
 + Mer - Calor
 + Gan - Vento
 + Ag - Mãe
++ Nar - Vida
++ Zyar - Entregar/Oferecer
 
 Formando assim certas palavras:
 + Arg•sk•ill - Árvore provinda da/provedora de Luz
