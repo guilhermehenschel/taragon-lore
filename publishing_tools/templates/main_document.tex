@@ -1,0 +1,68 @@
+% Taragon Campaign Setting - Complete Guide
+% Generated LaTeX document from Markdown sources
+
+\documentclass[11pt,a4paper]{article}
+
+% Language and encoding
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+
+% Page layout and margins
+\usepackage[margin=2.5cm]{geometry}
+
+% Graphics and colors  
+\usepackage{graphicx}
+\usepackage{xcolor}
+
+% Links and references
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,
+    urlcolor=cyan,
+    pdftitle={Taragon Campaign Setting},
+    pdfauthor={Campaign Master}
+}
+
+% Code listings
+\usepackage{listings}
+\lstset{
+    basicstyle=\ttfamily\small,
+    breaklines=true
+}
+
+% Title page information
+\title{\textbf{\Huge Taragon}\\[0.5cm]\Large Campaign Setting}
+\author{The Complete Guide}
+\date{\today}
+
+\begin{document}
+
+% Title page
+\maketitle
+
+% Table of contents
+\tableofcontents
+\newpage
+
+% Main content
+{%- for section_name, files in sections.items() %}
+{%- if files %}
+
+\section{ {{- section_name.replace('_', ' ').title() -}} }
+\label{sec:{{ section_name.lower().replace(' ', '_').replace('.', '_') }}}
+
+{%- for file in files %}
+{%- if file.title %}
+
+\subsection{ {{- file.title -}} }
+{{ file.processed_content }}
+
+{%- endif %}
+{%- endfor %}
+
+{%- endif %}
+{%- endfor %}
+
+\end{document}

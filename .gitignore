@@ -9,3 +9,6 @@
 *.xdv
 *.dd2vtt
 *.webp
+
+publishing_tools/__pycache__
+publishing_tools/output

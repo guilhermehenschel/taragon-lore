@@ -1,0 +1,2 @@
+# Required Python packages for Taragon PDF Publisher
+jinja2>=3.0.0
